@@ -63,3 +63,4 @@ tags
 
 # PHP Code Sniffer formatetr
 .php_cs.cache
+.phpcd/
