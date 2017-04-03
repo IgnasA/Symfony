@@ -59,6 +59,7 @@ $RECYCLE.BIN/
 !/*/.gitkeep
 
 # exclude ctags meta-info
+.ctags
 tags
 
 # PHP Code Sniffer formatetr
