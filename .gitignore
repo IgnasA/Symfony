@@ -16,7 +16,6 @@
 /web/bundles/
 
 # binaries
-bin/
 node_modules/
 vendor/
 
